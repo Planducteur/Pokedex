@@ -1,0 +1,22 @@
+.App {
+  text-align: center;  
+  align-items: center;
+  justify-content: center;
+  
+  width: 800px;
+  height: 800px;
+
+  display: flex;
+
+  padding-left: 10px;
+
+  margin: 50px auto;
+
+  border-radius: 10px;
+/*
+style en bleu
+*/
+background-color: #0084ff;
+box-shadow: 0 0 100px rgb(0, 98, 255);
+}
+
